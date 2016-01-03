@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PoopFiction</string>
+    <string name="fourth_slide_bottom">Earn reputation and achievements by answering questions</string>
+    <string name="no_connection">Enable WiFi or mobile data</string>
+    <string name="no_connection_title">Network Connection</string>
+    <string name="settings_button_text">Settings</string>
+    <string name="cancel_button_text">Cancel</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name_poop">MainActivity</string>
+</resources>
